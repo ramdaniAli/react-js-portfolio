@@ -1,0 +1,10 @@
+.logo {
+    width: 10rem;
+    fill: rgba(12, 12, 12, 0.87);
+}
+
+@media screen and (max-width: 1200px) {
+    .logo {
+        width: 8rem;
+    }
+}
